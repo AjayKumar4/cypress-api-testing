@@ -1,0 +1,19 @@
+{
+  "name": "cypress-api-testing",
+  "version": "1.0.0",
+  "description": "API Testing using Cypress",
+  "main": "index.ts",
+  "scripts": {
+    "test": "cypress open",
+    "test:debug": "DEBUG=cypress:* cypress open",
+    "test:headless": "cypress run"
+  },
+  "author": "AJ",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
