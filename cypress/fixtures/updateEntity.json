@@ -1,0 +1,7 @@
+{ 
+  "name" : "update entity1", 
+  "entity_type": "update application", 
+  "description": "update description of entity 1", 
+  "is_verified": false, 
+  "department_id": 4 
+}
